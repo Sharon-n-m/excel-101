@@ -169,4 +169,15 @@ Based on the analysis:
 - Promote products with high ratings and strong engagement  
 - Investigate high-discount, low-rated products for quality or experience issues  
 - Use customer feedback (ratings & reviews) to guide product improvements  
-- Implement promotion rules to avoid featuring low-rated products  
+- Implement promotion rules to avoid featuring low-rated products
+
+ ---
+
+## Skills & Competencies Demonstrated
+- Business Requirements Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Data Visualization & Dashboard Design
+- KPI Development & Performance Analysis
+- Analytical Thinking & Insight Generation
+- Stakeholder-Oriented Reporting
